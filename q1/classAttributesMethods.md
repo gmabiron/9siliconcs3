@@ -17,16 +17,16 @@ Link to my previous activity:
 | score | int | Private | Protects team scores from direct, unvalidated external modification. |
 
 ## Updated UML Class Diagram
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](Images/classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](Images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](Images/objectDiagram.png)
 
 ## Analysis
 ### Why did you make your chosen attribute private?
