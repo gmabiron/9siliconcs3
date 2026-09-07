@@ -27,6 +27,10 @@
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
-# 
+Because I love sports, and I believe that basketball is the greatest sport ever created.
+
 ### Which property is the most important? Why?
+The Inventor, because without him, there would be no basketball today.
+
 ### Which method is the most useful? Why?
+The Start_Game, because if a game does not start, then there will be no game at all.
