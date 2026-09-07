@@ -21,10 +21,13 @@ Link to my previous activity:
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
+
 ## Test Run
 ![Test Run](images/classTestRun.png)
+
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
+
 ## Analysis
 ### Why did you make your chosen attribute private?
 I made the score and condition attributes private so an external code cannot change variables directly without validation.
@@ -33,5 +36,7 @@ I made the score and condition attributes private so an external code cannot cha
 The add_point(points: int) method directly modifies the internal state of the __score attribute. When executed, it validates that the added points are positive and increments self.__score by the given value.
 
 ### How did your two objects demonstrate that instances are independent?
+When add_point(3) was called on bball (Basketball), its __score attribute increased from 0 to 3. Meanwhile, vball (Volleyball) maintained its initial __score value of 0.
 
 ### What is the difference between your class diagram and your object diagram?
+The class diagram serves as a static blueprint detailing the overall structure, available methods, attribute names, and data types for any Sport entity. In contrast, the object diagram represents a concrete runtime snapshot of specific instances (basketball and volleyball) with assigned attribute values at a specific point in execution. While the class diagram defines what properties exist, the object diagram captures what those properties currently contain.
