@@ -11,7 +11,6 @@
 ## Methods
 | Method | Description |
 |---|---|
-
 | Start_Game | When the game will start |
 | End_Game | When the game will end |
 | Add_Point | Adds points to a team's score |
