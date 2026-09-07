@@ -3,13 +3,14 @@
 ## This class represents the best sport of all time
 ## Properties
 | Property | Data Type | Description |
-
+|---|---|---|
 | Name | string | Name of the sport |
 | Inventor | string | Inventor of the sport |
 | Games | int | Number of games in a regular season |
 | Condition | boolean | Indicates if there will be a game |
 ## Methods
 | Method | Description |
+|---|---|| | |
 
 | Start_Game | When the game will start |
 | End_Game | When the game will end |
