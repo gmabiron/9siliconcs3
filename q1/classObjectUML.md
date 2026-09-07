@@ -24,7 +24,7 @@
 | Player_Turnovers | How much a player has turned over the ball to the enemy team |
 
 ## Class Diagram
-* [SportsDiagram](Images/SportsDiagram.png)
+* [classDiagram](Images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 Because I love sports, and I believe that basketball is the greatest sport ever created.
