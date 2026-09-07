@@ -10,7 +10,7 @@
 | Condition | boolean | Indicates if there will be a game |
 ## Methods
 | Method | Description |
-|---|---|| | |
+|---|---|
 
 | Start_Game | When the game will start |
 | End_Game | When the game will end |
